@@ -18,7 +18,6 @@ var calculator = {
         this.res = this.num1 / this.num2;
         return this.res;
     },
-
 }
 var sumation = calculator.sum();
 console.log(sumation);
